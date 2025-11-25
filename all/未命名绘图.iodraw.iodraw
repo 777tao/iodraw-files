@@ -10,7 +10,7 @@
         <mxCell id="2RRR4bEw6l0ea2IAuxqT-1" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-10" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2RRR4bEw6l0ea2IAuxqT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2RRR4bEw6l0ea2IAuxqT-2" value="&lt;pre style=&quot;border-width: 0px 1px 1px; border-style: solid; border-color: rgb(240, 240, 240); border-image: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; overflow: auto; color: rgb(0, 0, 0); text-align: start; text-decoration-color: initial; margin: 0px 0px -16px !important; padding: 1rem !important; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255) !important; border-radius: 0px 0px 8px 8px !important;&quot; class=&quot;hyc-common-markdown__code-lan&quot;&gt;初始化百元i=0 &lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2RRR4bEw6l0ea2IAuxqT-3" value="输入付款金额n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
